@@ -16,7 +16,7 @@ def main():
 
     opcion = input("Vas a corregir otro tp? N / S").lower()
 
-    if opcion == "S":
+    if opcion == "s":
         main()
     else:
         pass
